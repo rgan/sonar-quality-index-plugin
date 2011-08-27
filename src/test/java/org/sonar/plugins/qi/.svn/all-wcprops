@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi
+END
+ComplexityDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/ComplexityDecoratorTest.java
+END
+ComplexityDistributionDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/ComplexityDistributionDecoratorTest.java
+END
+QIMetricsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/QIMetricsTest.java
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/UtilsTest.java
+END
+StrutsIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/StrutsIT.java
+END
+CommonsCollectionIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/CommonsCollectionIT.java
+END
+AbstractDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/AbstractDecoratorTest.java
+END
+QIPluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/QIPluginTest.java
+END
+StyleViolationsDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/StyleViolationsDecoratorTest.java
+END
+QIDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/QIDecoratorTest.java
+END
+QIWidgetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/QIWidgetTest.java
+END
+AbstractViolationsDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/AbstractViolationsDecoratorTest.java
+END
+CoverageDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/test/java/org/sonar/plugins/qi/CoverageDecoratorTest.java
+END

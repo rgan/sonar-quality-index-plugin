@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi
+END
+ComplexityDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/ComplexityDecorator.java
+END
+ComplexityDistributionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/ComplexityDistributionDecorator.java
+END
+QIMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/QIMetrics.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/Utils.java
+END
+AbstractDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/AbstractDecorator.java
+END
+QIPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/QIPlugin.java
+END
+StyleViolationsDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/StyleViolationsDecorator.java
+END
+QIDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/QIDecorator.java
+END
+QIWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/QIWidget.java
+END
+AbstractViolationsDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/AbstractViolationsDecorator.java
+END
+CodingViolationsDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/CodingViolationsDecorator.java
+END
+CoverageDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sonar-plugins/!svn/ver/3458/tags/sonar-quality-index-plugin-1.1.3/src/main/java/org/sonar/plugins/qi/CoverageDecorator.java
+END
